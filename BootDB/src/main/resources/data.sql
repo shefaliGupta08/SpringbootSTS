@@ -1,0 +1,1 @@
+insert into student(sid,sname) values(1,'Shefali');
